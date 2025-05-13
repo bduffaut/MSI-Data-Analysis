@@ -28,7 +28,7 @@ This repository contains a **sanitized and anonymized Jupyter notebook** that de
 
 - **Python**
 - **Pandas** for data handling
-- **Matplotlib** (optional) for visual output
+- **Matplotlib** for visual output
 - **OS / Glob** for file I/O
 
 ---
